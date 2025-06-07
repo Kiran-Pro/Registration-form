@@ -1,4 +1,4 @@
-# 🌟 Stylish Registration Form with Live Validation & Character Counter
+# 🌟 Registration Form with Live Validation & Character Counter
 
 This project is a fully responsive registration form built with **HTML**, **Tailwind CSS**, and **JavaScript**. It includes real-time field validation, dynamic submit button enabling, and a live character counter for a message box.
 
